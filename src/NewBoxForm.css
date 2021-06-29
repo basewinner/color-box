@@ -1,0 +1,27 @@
+.Box-form {
+  height: 120px;
+  width: 320px;
+  box-shadow: 2px 2px 2px #ccc;
+  background-color: #fff;
+  border-radius: 25px;
+  border: 2px solid #000;
+  color: #000;
+  margin-top: 20px;
+  margin-left: 20px;
+  padding: 10px;
+  text-align: right;
+  font-weight: bold;
+  font-size: 1.3rem;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.label {
+  color: green;
+  padding: 0.8em;
+}
+
+.Box-button {
+  text-align: center;
+}
